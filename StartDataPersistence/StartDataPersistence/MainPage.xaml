@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:StartWithDataPersistence"
+             x:Class="StartWithDataPersistence.MainPage"
+             Title="Settings">
+
+    <TableView Intent="Settings" HorizontalOptions="Center" VerticalOptions="StartAndExpand">
+        <TableRoot>
+            <TableSection>
+                <EntryCell x:Name="userNickName" Text="{Binding NickName}" Label="NickName" 
+                           Placeholder="Insert here your NickName" Completed="OnChange"/>
+                <SwitchCell x:Name="notificationEnabled" Text="Notifications" On="{Binding NotificationsEnabled}" OnChanged="OnChange"/>
+                <SwitchCell x:Name="airplaneModeEnabled" Text="Airplane Mode" On="{Binding AirplaneModeEnabled}" OnChanged="OnChange" />
+            </TableSection>
+        </TableRoot>
+    </TableView>
+</ContentPage> 

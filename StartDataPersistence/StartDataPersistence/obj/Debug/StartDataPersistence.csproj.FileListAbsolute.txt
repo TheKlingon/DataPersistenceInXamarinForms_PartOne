@@ -1,0 +1,15 @@
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\obj\Debug\StartDataPersistence.csprojResolveAssemblyReference.cache
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\obj\Debug\StartDataPersistence.MainPage.xaml.g.cs
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\obj\Debug\StartDataPersistence.App.xaml.g.cs
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\bin\Debug\StartDataPersistence.dll
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\bin\Debug\StartDataPersistence.pdb
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\bin\Debug\Xamarin.Forms.Core.dll
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\bin\Debug\Xamarin.Forms.Platform.dll
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\bin\Debug\Xamarin.Forms.Xaml.dll
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\bin\Debug\Xamarin.Forms.Core.pdb
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\bin\Debug\Xamarin.Forms.Core.xml
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\bin\Debug\Xamarin.Forms.Platform.pdb
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\bin\Debug\Xamarin.Forms.Xaml.pdb
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\bin\Debug\Xamarin.Forms.Xaml.xml
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\obj\Debug\StartDataPersistence.dll
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\obj\Debug\StartDataPersistence.pdb

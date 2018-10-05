@@ -1,0 +1,2 @@
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence.UWP\StartDataPersistence.UWP.csproj;x86
+H:\DP\VisualStudio2017\StartDataPersistence\StartDataPersistence\StartDataPersistence\StartDataPersistence.csproj;neutral
